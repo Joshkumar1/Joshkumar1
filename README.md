@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Typing SVG -->
   <a href="https://github.com/Joshkumar1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Govathoty+Josh+Kumar;Software+Engineer+%26+Full+Stack+Developer;AI%2FML+Enthusiast+%26+Problem+Solver;Building+Scalable+%26+Intelligent+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Govathoty+Josh+Kumar;Software+Engineer+%26+Full+Stack+Developer;AI%2FML+Enthusiast+%26+Problem+Solver;Building+Scalable+%26+Intelligent+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
